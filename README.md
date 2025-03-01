@@ -119,7 +119,7 @@ This project implements and analyzes multiple algorithmic problems using **dynam
 ## How to Run
 1. Clone this repository:
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/munhim/Algorithms-Project.git
    ```
 2. Compile and run the programs in a suitable compiler.
 3. Modify input values to test different cases.
